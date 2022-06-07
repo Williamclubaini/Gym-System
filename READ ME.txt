@@ -1,0 +1,17 @@
+THE HERCULES GYM MANAGMENT SYSTEM
+1.You are required to install the system before access it directly otherwise the system will not operate
+below is the script for installation - copy and paste the following script in your browser:
+
+   http://localhost/Gym-system/controller/install.php
+
+2.To access the administrator system - copy and paste the following script in your browser:
+
+  http://localhost/Gym-system/administrator/
+   
+   Login Details(FIXED):
+                 email:admin@gmail.com
+                 password:1234admin
+
+3.To access the User-system / panel - copy and paste the following script in your browser:
+
+   http://localhost/Gym-system/
